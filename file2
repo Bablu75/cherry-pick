@@ -4,4 +4,8 @@ how are you?
        stages {
         stage ('clone')
 	}
+ sudo -i
+ apt update -y
+ apt install default -jdk -y
+ apt install maven -y
 
