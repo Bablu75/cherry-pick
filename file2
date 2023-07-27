@@ -8,4 +8,9 @@ how are you?
  apt update -y
  apt install default -jdk -y
  apt install maven -y
-
+<<<<<<< Updated upstream
+}
+Docker
+from jenkins
+run apt update
+cmd mkdir madhu
